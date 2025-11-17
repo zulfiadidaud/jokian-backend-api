@@ -1,0 +1,7 @@
+# .gitignore file
+
+# Folder besar yang tidak perlu diupload
+node_modules/
+
+# File yang berisi rahasia/password
+.env
